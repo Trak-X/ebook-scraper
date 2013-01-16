@@ -3,16 +3,16 @@
 
 ###The repository consists of 4 files :
 
-config.php
+**config.php**
 : Edit here your database credentials to store information about ebooks in a table .
 
-details-scrape.php
+**details-scrape.php**
 : As the name suggests , it scrapes and fills up the table of ebooks data exclusively without downloading them .
 
-ebooks-download.php
+**ebooks-download.php**
 : Downloads the ebooks as well as fills the table ( Optional - Set it in config.php )
 
-simple_html_dom.php 
+**simple_html_dom.php** 
 : The tool i used to scrape the website .
 
 ##Your Job 
